@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9081c3f1-ba83-4342-bf14-9688588b9dfa" name="Changes" comment="`add gen`">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mini-douyin-rebuild.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dal/comment.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dal/favorite.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dal/gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dal/message.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dal/relation.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dal/user.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dal/video.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/mysqlConnection.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/redisConnection.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/server_config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/comment.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/favorite.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/message.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/relation.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/user.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/video.gen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/yamlAnalyse.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://E:/go1.20.2.windows-amd64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="2NSHLswmIDiCOJYoaS7BdB8ebNQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\桌面\git\mini-douyin-rebuild" />
+      <recent name="D:\桌面\git\mini-douyin-rebuild\IDL" />
+      <recent name="D:\桌面\git\mini-douyin-rebuild\IDL\user" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build mini-douyin-rebuild" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="mini-douyin-rebuild" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="mini-douyin-rebuild" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build mini-douyin-rebuild" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="`add gen`" />
+    <option name="LAST_COMMIT_MESSAGE" value="`add gen`" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>

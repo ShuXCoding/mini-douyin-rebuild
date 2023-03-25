@@ -1,0 +1,29 @@
+#mysql config
+MysqlConfig :
+ Name         : root
+ Password     : sx221410
+ Ip           : localhost
+ Port         : 701
+ DatabaseName : minidouyin
+
+#redis config
+RedisConfig :
+ Network  : tcp
+ Address  : 121.199.43.175:6379
+ Num      : 0
+ RdbPassword : sx221410
+
+#JWT secret key
+JwtKey : tyhngebvfpliyergfgdf
+
+#QiniuOss
+OSSConfig :
+ AccessKey     : XuigBGSCJ7vpAtRtpu04NqLGLXpEROCaqgOxTZ0W
+ SecretKey     : mhV_z93CyJCcDTmSfU2cSfx_LiejWCjujCCRMuqg
+ VideoBucket   : mini-douyin-video
+ PictureBucket : mini-douyin-cover
+ DomainVideo   : http://rs0p0jlb1.bkt.clouddn.com
+ DomainPicture : http://rs0ptfoqk.bkt.clouddn.com
+
+# 单次feed流所能刷取的最大视频量
+N : 10

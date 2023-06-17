@@ -1,6 +1,6 @@
 module mini-douyin-rebuild
 
-go 1.20
+go 1.17
 
 require (
 	github.com/garyburd/redigo v1.6.4

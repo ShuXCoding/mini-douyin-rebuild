@@ -26,7 +26,7 @@ func MysqlInit(s *config.ServerConfig) {
 		},
 	})
 	if err != nil {
-		panic(err.(any))
+		panic(err)
 	}
 	sqlDB, _ := Conn.DB()
 	// SetMaxIdleCons 设置连接池中的最大闲置连接数。
